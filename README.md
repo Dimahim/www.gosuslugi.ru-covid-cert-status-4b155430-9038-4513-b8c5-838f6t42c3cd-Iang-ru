@@ -1,1 +1,3 @@
-# www.gosuslugi.ru-covid-cert-status-4b155430-9038-4513-b8c5-838f6t42c3cd-Iang-ru
+# Проект "qr-covid"
+### "qr-covid" - это проект обмануть систему.
+
